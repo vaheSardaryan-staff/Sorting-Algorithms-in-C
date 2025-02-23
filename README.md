@@ -110,25 +110,5 @@ After Sorting: -10 -1 0 0 3 5 5 100
 Merge Sort:
 Before Sorting: 5 -1 3 0 5 -10 100 0
 After Sorting: -10 -1 0 0 3 5 5 100
-```When you run the program, you should see output similar to this:
-
-```
-Original Array: 5 -1 3 0 5 -10 100 0
-
-Insertion Sort:
-Before Sorting: 5 -1 3 0 5 -10 100 0
-After Sorting: -10 -1 0 0 3 5 5 100
-
-Bubble Sort:
-Before Sorting: 5 -1 3 0 5 -10 100 0
-After Sorting: -10 -1 0 0 3 5 5 100
-
-Quick Sort:
-Before Sorting: 5 -1 3 0 5 -10 100 0
-After Sorting: -10 -1 0 0 3 5 5 100
-
-Merge Sort:
-Before Sorting: 5 -1 3 0 5 -10 100 0
-After Sorting: -10 -1 0 0 3 5 5 100
 ```
 
